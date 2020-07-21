@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//dziubliukbm.github.io/test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/http//dziubliukbm.github.io/test/static/js/main.75342c00.chunk.js",
+    "main.js.map": "/http//dziubliukbm.github.io/test/static/js/main.75342c00.chunk.js.map",
+    "runtime-main.js": "/http//dziubliukbm.github.io/test/static/js/runtime-main.39394f35.js",
+    "runtime-main.js.map": "/http//dziubliukbm.github.io/test/static/js/runtime-main.39394f35.js.map",
+    "static/js/2.e290e6f8.chunk.js": "/http//dziubliukbm.github.io/test/static/js/2.e290e6f8.chunk.js",
+    "static/js/2.e290e6f8.chunk.js.map": "/http//dziubliukbm.github.io/test/static/js/2.e290e6f8.chunk.js.map",
+    "index.html": "/http//dziubliukbm.github.io/test/index.html",
+    "precache-manifest.2fb820be180b6d818ac13db7de352f96.js": "/http//dziubliukbm.github.io/test/precache-manifest.2fb820be180b6d818ac13db7de352f96.js",
+    "service-worker.js": "/http//dziubliukbm.github.io/test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/http//dziubliukbm.github.io/test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e290e6f8.chunk.js.LICENSE.txt": "/http//dziubliukbm.github.io/test/static/js/2.e290e6f8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/http//dziubliukbm.github.io/test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39394f35.js",
+    "static/js/2.e290e6f8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.75342c00.chunk.js"
+  ]
+}
